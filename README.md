@@ -1,4 +1,19 @@
 ## Finance_Dashboard_PowerBI
 ## Project Overview
 
-This project is a comprehensive financial analysis dashboard developed using Power BI. The primary objective is to analyze financial data to provide insights into various financial metrics and key performance indicators (KPIs). The dashboard encompasses data cleaning, data transformation, and the use of DAX (Data Analysis Expressions) queries to perform complex calculations and create meaningful visualizations.
+This project aims to create a comprehensive financial analysis dashboard using Power BI. The dashboard will provide key financial insights through dynamic and interactive visualizations, helping stakeholders make informed decisions.
+
+## Data Source
+The dataset used in this project includes the following features:
+
+Component: Represents different parts of the financial data.
+Type: Categorizes the financial data (e.g., revenue, expense).
+Date: Timestamp for the financial entries.
+Value: The monetary value associated with each entry.
+
+## Tools Utilized
+
+Microsoft Power BI
+Power Query
+DAX Query
+
