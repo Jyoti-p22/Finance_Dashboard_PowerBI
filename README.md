@@ -6,14 +6,14 @@ This project aims to create a comprehensive financial analysis dashboard using P
 ## Data Source
 The dataset used in this project includes the following features:
 
-Component: Represents different parts of the financial data.
-Type: Categorizes the financial data (e.g., revenue, expense).
-Date: Timestamp for the financial entries.
-Value: The monetary value associated with each entry.
+- Component: Represents different parts of the financial data.
+- Type: Categorizes the financial data (e.g., revenue, expense).
+- Date: Timestamp for the financial entries.
+- Value: The monetary value associated with each entry.
 
 ## Tools Utilized
 
-Microsoft Power BI
-Power Query
-DAX Query
+- Microsoft Power BI
+- Power Query
+- DAX Query
 
